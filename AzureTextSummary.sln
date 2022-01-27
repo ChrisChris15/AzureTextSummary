@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "AzureTextSummary", "AzureTextSummary.pyproj", "{AF3B0B29-6A85-4339-A59C-C6FFD9EB664D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF3B0B29-6A85-4339-A59C-C6FFD9EB664D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF3B0B29-6A85-4339-A59C-C6FFD9EB664D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C4F4773-EC8E-499D-8A2E-CD5D6347382C}
+	EndGlobalSection
+EndGlobal
